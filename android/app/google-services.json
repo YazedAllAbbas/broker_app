@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887617796295",
+    "project_id": "brokerfb-4a137",
+    "storage_bucket": "brokerfb-4a137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887617796295:android:00b612638e94581c90a6e2",
+        "android_client_info": {
+          "package_name": "com.example.broker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIz2hTVN9LVb6vEGGGNkNFLnA7xS5VUN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
